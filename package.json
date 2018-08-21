@@ -1,0 +1,16 @@
+{
+  "name": "networkcheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkInternet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "viraj",
+  "license": "ISC",
+  "dependencies": {
+    "connectivity": "^1.0.1",
+    "internet-available": "^1.0.0",
+    "log4js": "^3.0.5"
+  }
+}
